@@ -22,9 +22,11 @@ Thanks for stopping by!
 
 Follow this tutorial's 👉 [Raspberry Pi Intro](https://medium.com/jungletronics/raspberry-pi-intro-92c596aab1d0)
 
-[1](Episode_1/)#raspiSeries -  All About Cameras —      [Part 1](https://medium.com/jungletronics/raspberry-pi-camera-module-82b04023fcf5)
+[1](Episode_1/)#raspiSeries - All About Raspiberry PI Cameras — [Part 1](https://medium.com/jungletronics/raspberry-pi-camera-module-82b04023fcf5)
 
-2#raspiSeries - Soon...  — — — — —   [Part 2](#TODO)
+[2](Episode_/)#raspiSeries - Residential Intrusion Detection System — [Part 2](https://medium.com/jungletronics/raspberry-pi-camera-project-9d754b7fe56c)
+
+3 #raspiSeries - Next Soon... — [Part 3](#TODO)
     
 ## License
 
