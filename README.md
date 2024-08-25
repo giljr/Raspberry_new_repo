@@ -24,9 +24,11 @@ Follow this tutorial's 👉 [Raspberry Pi Intro](https://medium.com/jungletronic
 
 [1](Episode_1/)#raspiSeries - All About Raspiberry PI Cameras — [Part 1](https://medium.com/jungletronics/raspberry-pi-camera-module-82b04023fcf5)
 
-[2](Episode_2/)#raspiSeries - Residential Intrusion Detection System — [Part 2](https://medium.com/jungletronics/raspberry-pi-camera-project-9d754b7fe56c)
+[2](Episode_2/)#raspiSeries - Residential Intrusion Detection System — PIR & Camera — [Part 2](https://medium.com/jungletronics/raspberry-pi-camera-project-9d754b7fe56c)
 
-3 #raspiSeries - Next Soon... — [Part 3](#TODO)
+[2](Episode_3/)#raspiSeries - Residential Intrusion Detection System — Log & Email — [Part 3](https://medium.com/jungletronics/raspberry-pi-camera-project-07b1f199ac4a)
+
+4 #raspiSeries - Next Soon... — [Part 4](#TODO)
     
 ## License
 
